@@ -14,7 +14,7 @@
 
 [Click here](https://mpcr.lab.com)
 
-...
+```
 import numpy as np
 y = np.random.random()
-...
+```
