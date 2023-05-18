@@ -1,6 +1,6 @@
 # Welcome to my data science webpage
 ## Microscope Labs 
-<img src="https://api.hub.jhu.edu/factory/sites/default/files/styles/full_width/public/electron_microscope_030121.jpg">
+<img src="https://api.hub.jhu.edu/factory/sites/default/files/styles/full_width/public/electron_microscope_030121.jpg" width=200>
 
 - Item 1
 - Item 2
