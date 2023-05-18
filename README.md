@@ -16,5 +16,5 @@
 
 ...
 import numpy as np
-y= np.random.random()
+y = np.random.random()
 ...
